@@ -1,0 +1,14 @@
+PODS:
+  - PMResumableDownloader (0.0.1)
+
+DEPENDENCIES:
+  - PMResumableDownloader (from `../`)
+
+EXTERNAL SOURCES:
+  PMResumableDownloader:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PMResumableDownloader: 41f78498bfe2b3d733347f67df1351a1b7643a28
+
+COCOAPODS: 0.32.1

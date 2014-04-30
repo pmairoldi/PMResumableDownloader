@@ -1,0 +1,11 @@
+platform :ios, "6.0"
+
+pod "PMResumableDownloader", :path => "../"
+
+#target "PMResumableDownloadDemo" do
+
+#end
+
+#target "PMResumableDownloadDemoTests" do
+
+#end
